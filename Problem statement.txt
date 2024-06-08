@@ -1,0 +1,13 @@
+ROAD ACCIDENT DASHBOARD USING EXCEL
+
+REQUIREMENTS:
+Client wants to creat a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on the below requirements:
+
+PRIMARY KPI- Total Casualties taken place after the accident
+PRIMARY KPI's- Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle 
+
+SECONDARY KPI's- 1) Total casualties with respect to vehicle type
+2) Monthly trend showing comparison of casualties for Current year and Previous year.
+3) Maximum casualties by road type
+4) Distribution of total casualties by road surface
+5) Relation between Casualties by area/location & day/night.
